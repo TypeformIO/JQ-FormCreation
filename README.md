@@ -10,6 +10,7 @@ starting point.
 ## Requirements
 
 * The `jq` JSON processing shell utility
+	- You can find installation instructions [here](http://stedolan.github.io/jq/download/)
 * An API-key from Typeform I/O (You can get one [here](http://docs.typeform.io/v0.1/page/signup))
 
 

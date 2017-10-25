@@ -1,3 +1,6 @@
+# Sorry, Typeform I/O will be deprecated soon. Please visit https://developer.typeform.com/ to discover our new developer products
+
+
 ## JQ-FormCreation Example
 
 This is a example how you can use Typeform I/O to create typeforms based on
